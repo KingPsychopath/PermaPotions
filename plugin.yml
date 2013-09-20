@@ -1,0 +1,54 @@
+name: PermaPotions
+main: me.Ryan6338.PermaPotion.Main
+version: 0.2.1
+author: Ryan6338
+description: Give permanent potion effects to anyone!
+
+permissions:
+    PermaPotion.ABSORPTION:
+        default: false
+    PermaPotion.BLINDNESS:
+        default: false
+    PermaPotion.CONFUSION:
+        default: false
+    PermaPotion.DAMAGE_RESISTANCE:
+        default: false
+    PermaPotion.FAST_DIGGING:
+        default: false
+    PermaPotion.FIRE_RESISTANCE:
+        default: false
+    PermaPotion.HARM:
+        default: false
+    PermaPotion.HEAL:
+        default: false
+    PermaPotion.HEALTH_BOOST:
+        default: false
+    PermaPotion.HUNGER:
+        default: false
+    PermaPotion.INCREASE_DAMAGE:
+        default: false
+    PermaPotion.INVISIBILITY:
+        default: false
+    PermaPotion.JUMP:
+        default: false
+    PermaPotion.NIGHT_VISION:
+        default: false
+    PermaPotion.POISON:
+        default: false
+    PermaPotion.REGENERATION:
+        default: false
+    PermaPotion.SATURATION:
+        default: false
+    PermaPotion.SLOW:
+        default: false
+    PermaPotion.SLOW_DIGGING:
+        default: false
+    PermaPotion.SPEED:
+        default: false
+    PermaPotion.WATER_BREATHING:
+        default: false
+    PermaPotion.WEAKNESS:
+        default: false
+    PermaPotion.WITHER:
+        default: false
+    
