@@ -1,4 +1,4 @@
-package me.Ryan6338.PermaPotion;
+package me.Ryan6338.PermaPotions;
 
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;

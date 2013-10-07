@@ -1,6 +1,6 @@
 name: PermaPotions
-main: me.Ryan6338.PermaPotion.Main
-version: 0.2.1
+main: me.Ryan6338.PermaPotions.Main
+version: 0.3.0
 author: Ryan6338
 description: Give permanent potion effects to anyone!
 
